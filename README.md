@@ -1,7 +1,5 @@
 # Integração e Controle de Qualidade no Serviço de Chatbot para Suporte Rappi
 
----
-
 ## a) Estrutura de Integração
 
 ### 1. Visão Geral
