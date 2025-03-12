@@ -1,7 +1,5 @@
 # Integração e Controle de Qualidade no Serviço de Chatbot para Suporte Rappi
 
-Este documento detalha de forma profissional o fluxo de integração desenvolvido para o serviço de chatbot, abordando tanto a estrutura de integração (item a) quanto o controle de qualidade dessa integração (item b).
-
 ---
 
 ## a) Estrutura de Integração
